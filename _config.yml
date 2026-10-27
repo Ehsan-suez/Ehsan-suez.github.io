@@ -1,0 +1,33 @@
+title: "Ehsan Suez, PhD"
+description: "Infectious disease modeling and forecasting"
+
+url: "https://ehsan-suez.github.io"
+baseurl: ""
+
+# Contact information
+email: "Ehsan.suez@uga.edu"
+
+# Professional profiles
+github_username: Ehsan-suez
+linkedin_url: "https://www.linkedin.com/in/ehsan-suez-942a07304/"
+google_scholar_url: "https://scholar.google.com/citations?user=QzcGwgwAAAAJ"
+
+# Website theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Navigation menu
+header_pages:
+  - research.md
+  - teaching.md
+  - publications.md
+  - cv.md
+
+# Excluded files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
