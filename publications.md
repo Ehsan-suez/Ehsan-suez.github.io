@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Publications
 permalink: /publications/
 ---
@@ -20,6 +20,7 @@ permalink: /publications/
 
 ## Manuscripts Under Review
 
+{: start="7"}
 7. Davis, J. T., Kaur, G., Hines, A., …, **Suez, E.**, et al. (2026). Multi-season evaluation and analysis of categorical trend forecasts of influenza hospital admissions in the United States. *Nature Communications* (Under Review). [Preprint DOI](https://doi.org/10.64898/2026.08.31.26361843).
 
 8. MacArthur, I., Robacker, T., Case, B., …, **Suez, E.**, et al. (2026). Collaborative estimation and evaluation of SARS-CoV-2 variant nowcasting in the United States. *Nature Communications* (Under Review). [arXiv Preprint](https://arxiv.org/abs/2606.07129).
@@ -28,6 +29,7 @@ permalink: /publications/
 
 ## Manuscripts in Preparation
 
+{: start="10"}
 10. **Suez, E.**, Fox, S. J., et al. ScenarioCast: Harnessing scenario projections for short-term influenza forecasting. (In Preparation).
 
 11. Cramer, A., **Suez, E.**, Fox, S. J., et al. Spatial risk assessment for a hypothetical H5N1 or H7N9 pandemic in the United States. (In Preparation).

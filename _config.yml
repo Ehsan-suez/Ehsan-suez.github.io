@@ -4,6 +4,13 @@ description: "Infectious disease modeling and forecasting"
 url: "https://ehsan-suez.github.io"
 baseurl: ""
 
+# Social preview image for every page
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/headshot.jpg"
+
 # Contact information
 email: "Ehsan.suez@uga.edu"
 
@@ -22,8 +29,9 @@ plugins:
 # Navigation menu
 header_pages:
   - research.md
-  - teaching.md
   - publications.md
+  - talks.md
+  - teaching.md
   - cv.md
 
 # Excluded files
