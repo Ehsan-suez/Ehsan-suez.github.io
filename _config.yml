@@ -11,9 +11,6 @@ defaults:
     values:
       image: "/assets/headshot.jpg"
 
-# Contact information
-email: "Ehsansuezdr@gmail.com"
-
 # Professional profiles
 github_username: Ehsan-suez
 linkedin_url: "https://www.linkedin.com/in/ehsan-suez-942a07304/"
